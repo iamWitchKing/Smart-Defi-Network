@@ -750,7 +750,7 @@ stableCoin.safeTransfer(smart_Bank, stableCoin.balanceOf(address(this)));
 
 برای گزارش پروژه‌های مشابه یا دریافت اطلاعات بیشتر:
 
-- **گیت‌هاب:** [لینک مخزن]
+- **گیت‌هاب:** [https://github.com/iamWitchKing/Smart-Defi-Network]
 - **توییتر:** [https://x.com/iamWitchKing?t=bbFXDWYgHmjUZKt_iM8Y1Q&s=09]
 - **تلگرام:** [https://t.me/CompanyHuracan]
 
