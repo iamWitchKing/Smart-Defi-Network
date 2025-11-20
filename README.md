@@ -733,8 +733,8 @@ stableCoin.safeTransfer(smart_Bank, stableCoin.balanceOf(address(this)));
 
 ما از کمک شما برای:
 - 🔍 **شناسایی قربانیان بیشتر**
-- 📝 **ترجمه مستندات**
-- 🕵️ **کشف پروژه‌های مشابه**
+- 📝 **ترجمه مستندات** [https://github.com/iamWitchKing/Smart-Binance-Pro]
+- 🕵️ **کشف پروژه‌های مشابه** [https://github.com/iamWitchKing/Smart-Binance-Pro]
 
 استقبال می‌کنیم.
 
